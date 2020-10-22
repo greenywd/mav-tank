@@ -1,0 +1,9 @@
+{
+	"Name": "mav-tank",
+	"Authors": ["greeny"],
+	"Description": "Changes the MAV jammer to a tank shell",
+	"URL": "",
+	"Version": "1.0.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
